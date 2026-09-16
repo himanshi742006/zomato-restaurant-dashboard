@@ -12,3 +12,6 @@ Interactive Power BI dashboard analyzing 9,551 restaurants across 141 cities and
 Power BI, DAX
 
 Built as part of Data Science & Generative AI training at AlmaBetter.
+
+## Dashboard Preview
+![Zomato Dashboard](dashboard-screenshot.png)
